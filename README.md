@@ -1,2 +1,2 @@
-# ping-pong
-simple implementation of a console ping-pong game
+# game of life
+
